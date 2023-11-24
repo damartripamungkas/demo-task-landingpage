@@ -26,7 +26,7 @@ This application is a landingpage that is designed for demo purposes only, but i
 
 ### 🧱 View Demo :
 
-https://damartripamungkas.github.io/demo-task-landingpage
+https://damartripamungkas.github.io/demo-task-landingpage-mgg-11
 
 ### 📝 License :
 
